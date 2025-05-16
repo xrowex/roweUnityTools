@@ -12,7 +12,7 @@ public class LightmapUVGenerator : EditorWindow
     private float hardAngle = 88f;
     private float packMargin = 0.003f;
 
-    [MenuItem("Tools/Rowe/Generate Lightmap UVs")]
+    [MenuItem("Rowe/Tools/Generate Lightmap UVs")]
     public static void ShowWindow()
     {
         GetWindow<LightmapUVGenerator>("Lightmap UV Generator");
