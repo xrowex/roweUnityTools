@@ -1,0 +1,12 @@
+{
+  "name": "com.rowemod.lightmapuvtool",
+  "version": "1.0.0",
+  "displayName": "RoweMod Lightmap UV Tool",
+  "description": "Generate UV2 for lightmapping in Unity Editor.",
+  "unity": "2021.3",
+  "keywords": [ "lightmap", "uv2", "unwrap", "rowemod" ],
+  "author": {
+    "name": "rowemods",
+    "url": "https://github.com/rowemods"
+  }
+}
